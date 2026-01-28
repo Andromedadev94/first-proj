@@ -1,1 +1,0 @@
-function say hello(name)
